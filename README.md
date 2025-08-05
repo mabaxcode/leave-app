@@ -1,1 +1,1 @@
-# 📝 Leave Application System
+# Leave Application System
